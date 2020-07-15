@@ -2,3 +2,24 @@
   text-align: center;
 }
 
+.title {
+  background-color: darkgreen;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: auto;
+  width: 500px;
+}
+
+.calculation {
+  background-color: floralwhite;
+  margin: 25px auto;
+  width: 500px;
+  border: 2px solid darkgreen;
+}
+
+.inputField {
+  text-align: center;
+  padding: 4px 0 4px 0;
+  width: 100px;
+}
