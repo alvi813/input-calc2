@@ -12,7 +12,7 @@
 }
 
 .calculation {
-  background-color: #e8fee7;
+  background-color: floralwhite;
   margin: 25px auto;
   width: 500px;
   border: 2px solid darkgreen;
@@ -22,4 +22,8 @@
   text-align: center;
   padding: 4px 0 4px 0;
   width: 100px;
+}
+
+body {
+  background-color: #e8fee7;
 }
